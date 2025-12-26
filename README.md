@@ -1,5 +1,10 @@
 # Web3 / DeFi GTM Engineer Sheet
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Focus](https://img.shields.io/badge/focus-Web3%20GTM%20Engineering-blue)
+![Stack](https://img.shields.io/badge/stack-Onchain%20data%20and%20activation-informational)
+![Status](https://img.shields.io/badge/status-Active-success)
+![Made with](https://img.shields.io/badge/made%20with-SQL%20Python%20and%20Dune-orange)
 
 
 A practical, Web3-native GTM framework for protocol growth, ecosystem expansion, and onchain user activation.
