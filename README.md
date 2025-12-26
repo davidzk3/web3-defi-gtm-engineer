@@ -1,4 +1,4 @@
-\# Web3 / DeFi GTM Engineer Cheat Sheet
+# Web3 / DeFi GTM Engineer Sheet
 
 
 
@@ -6,43 +6,28 @@ A practical, Web3-native GTM framework for protocol growth, ecosystem expansion,
 
 
 
-This repository reframes traditional GTM engineering around \*\*wallet behavior, onchain signals, incentives, and governance\*\*, rather than CRM-first sales motions.
-
-
-
-Built for:
-
-\- DeFi protocols
-
-\- L2 ecosystems
-
-\- Infrastructure providers
-
-\- DAOs and foundations
-
-\- Web3 accelerators and venture studios
-
+This repository reframes traditional GTM engineering around **wallet behavior, onchain signals, incentives, and governance**, rather than CRM-first sales motions.
 
 
 ---
 
 
 
-\## What This Is
+## What This Is
 
 
 
-A \*\*Go-To-Market operating system\*\* for Web3:
+A **Go-To-Market operating system** for Web3:
 
 
 
-\- Signal-driven, not lead-driven  
+- Signal-driven, not lead-driven  
 
-\- Wallet-centric, not account-centric  
+- Wallet-centric, not account-centric  
 
-\- Incentive-aware, not funnel-only  
+- Incentive-aware, not funnel-only  
 
-\- Onchain-first, not CRM-first  
+- Onchain-first, not CRM-first  
 
 
 
@@ -54,113 +39,47 @@ This is how modern Web3 growth actually works.
 
 
 
-\## 1. Strategy \& Plays (Web3 Native)
+## 1. Strategy & Plays (Web3 Native)
 
 
 
-\### Warm
+### Warm
 
 
 
-\*\*Relationship-based\*\*
+**Relationship-based**
 
-\- Founders and teams previously supported
+- Founders and teams previously supported
 
-\- DAO contributors and ecosystem operators
+- DAO contributors and ecosystem operators
 
-\- Builders met via hackathons or grants
+- Builders met via hackathons or grants
 
-\- Strategic partners (wallets, infra, L2s)
-
-
-
-\*\*History-based\*\*
-
-\- Wallets that interacted with v1
-
-\- Testnet users
-
-\- Grant recipients
-
-\- Prior governance participants
+- Strategic partners (wallets, infra, L2s)
 
 
 
-\*\*Social engagement\*\*
+**History-based**
 
-\- Discord contributors
+- Wallets that interacted with v1
 
-\- Telegram power users
+- Testnet users
 
-\- X followers engaging with protocol content
+- Grant recipients
 
-\- GitHub contributors and stargazers
-
-
-
----
+- Prior governance participants
 
 
 
-\### Signal-Based (Core Web3 GTM Layer)
+**Social engagement**
 
+- Discord contributors
 
+- Telegram power users
 
-\*\*Onchain signals\*\*
+- X followers engaging with protocol content
 
-\- First interaction timestamp
-
-\- Transaction frequency
-
-\- Contract interaction types
-
-\- Fees generated
-
-\- TVL contribution
-
-\- Staking or LP behavior
-
-\- Governance voting activity
-
-
-
-\*\*Wallet behavior signals\*\*
-
-\- Swap-only users
-
-\- LP-only users
-
-\- Swap + LP users
-
-\- Whale vs retail clustering
-
-\- Multichain activity patterns
-
-
-
-\*\*Ecosystem signals\*\*
-
-\- Bridging from competitor chains
-
-\- Usage of competing protocols
-
-\- Post-incentive retention
-
-\- Airdrop farming patterns
-
-
-
-\*\*Developer signals\*\*
-
-\- Contract deployments
-
-\- Testnet usage
-
-\- SDK adoption
-
-\- RPC call volume
-
-\- GitHub commits
+- GitHub contributors and stargazers
 
 
 
@@ -168,81 +87,65 @@ This is how modern Web3 growth actually works.
 
 
 
-\### Cold (ICP Fit for Web3)
+### Signal-Based (Core Web3 GTM Layer)
 
 
 
-\*\*ICP dimensions\*\*
+**Onchain signals**
 
-\- Chain or ecosystem
+- First interaction timestamp
 
-\- User type (retail, DAO, fund, MM)
+- Transaction frequency
 
-\- Use case (DeFi, infra, RWA, gaming)
+- Contract interaction types
 
-\- Capital size (wallet balance, TVL)
+- Fees generated
 
-\- Activity level (DAU, tx frequency)
+- TVL contribution
 
+- Staking or LP behavior
 
-
----
-
-
-
-\## 2. Data Aggregation (Web3 Stack)
+- Governance voting activity
 
 
 
-\### First-party
+**Wallet behavior signals**
 
-\- Smart contract events
+- Swap-only users
 
-\- Subgraphs and indexers
+- LP-only users
 
-\- App-level analytics
+- Swap + LP users
 
-\- Wallet connection data
+- Whale vs retail clustering
 
-
-
-\### Second-party
-
-\- Partner protocol usage
-
-\- Ecosystem grants data
-
-\- L2 dashboards
-
-\- Hackathon participation
+- Multichain activity patterns
 
 
 
-\### Third-party
+**Ecosystem signals**
 
-\- Dune Analytics
+- Bridging from competitor chains
 
-\- DefiLlama
+- Usage of competing protocols
 
-\- Token price feeds
+- Post-incentive retention
 
-\- Funding announcements
-
-\- Governance forums
+- Airdrop farming patterns
 
 
 
-\### Social and offchain
+**Developer signals**
 
-\- X engagement
+- Contract deployments
 
-\- Discord activity
+- Testnet usage
 
-\- Telegram messages
+- SDK adoption
 
-\- GitHub activity
+- RPC call volume
 
-\- Blog and forum posts
+- GitHub commits
 
 
 
@@ -250,59 +153,21 @@ This is how modern Web3 growth actually works.
 
 
 
-\## 3. Data Enrichment (GTM Intelligence Layer)
+### Cold (ICP Fit for Web3)
 
 
 
-\*\*Normalize\*\*
+**ICP dimensions**
 
-\- Wallet clustering
+- Chain or ecosystem
 
-\- Cross-chain identity resolution
+- User type (retail, DAO, fund, MM)
 
-\- Contract labeling
+- Use case (DeFi, infra, RWA, gaming)
 
-\- User segmentation
+- Capital size (wallet balance, TVL)
 
-
-
-\*\*Score\*\*
-
-\- Activation likelihood
-
-\- Retention probability
-
-\- Whale probability
-
-\- Developer quality
-
-\- Governance influence
-
-
-
-\*\*Segment\*\*
-
-\- Power users
-
-\- Long-term holders
-
-\- Liquidity farmers
-
-\- Mercenary capital
-
-\- Builders
-
-
-
-\*\*AI augmentation\*\*
-
-\- Wallet behavior summarization
-
-\- Governance sentiment analysis
-
-\- Proposal outcome prediction
-
-\- Personalized GTM messaging
+- Activity level (DAU, tx frequency)
 
 
 
@@ -310,57 +175,59 @@ This is how modern Web3 growth actually works.
 
 
 
-\## 4. Data Activation (Execution)
+## 2. Data Aggregation (Web3 Stack)
 
 
 
-\### Outbound (Protocol-Led)
+### First-party
 
-\- DAO outreach
+- Smart contract events
 
-\- Builder grants
+- Subgraphs and indexers
 
-\- Strategic integrations
+- App-level analytics
 
-\- Market maker onboarding
-
-\- Ecosystem BD
+- Wallet connection data
 
 
 
-\### Inbound
+### Second-party
 
-\- Content-led growth
+- Partner protocol usage
 
-\- Developer documentation
+- Ecosystem grants data
 
-\- Transparency dashboards
+- L2 dashboards
 
-\- Airdrops with behavioral filters
-
-
-
-\### RevOps (Web3 Version)
-
-\- Grant pipeline tracking
-
-\- Partner lifecycle management
-
-\- Integration status tracking
-
-\- Incentive ROI measurement
-
-\- DAO proposal tracking
+- Hackathon participation
 
 
 
-\### Growth Loops
+### Third-party
 
-\- Incentives → volume → fees → buy pressure
+- Dune Analytics
 
-\- Developers → apps → users → protocol revenue
+- DefiLlama
 
-\- Governance → alignment → retention
+- Token price feeds
+
+- Funding announcements
+
+- Governance forums
+
+
+
+### Social and offchain
+
+- X engagement
+
+- Discord activity
+
+- Telegram messages
+
+- GitHub activity
+
+- Blog and forum posts
 
 
 
@@ -368,11 +235,129 @@ This is how modern Web3 growth actually works.
 
 
 
-\## 5. Core Workflows
+## 3. Data Enrichment (GTM Intelligence Layer)
 
 
 
-\### Web3 Outbound GTM Workflow
+**Normalize**
+
+- Wallet clustering
+
+- Cross-chain identity resolution
+
+- Contract labeling
+
+- User segmentation
+
+
+
+**Score**
+
+- Activation likelihood
+
+- Retention probability
+
+- Whale probability
+
+- Developer quality
+
+- Governance influence
+
+
+
+**Segment**
+
+- Power users
+
+- Long-term holders
+
+- Liquidity farmers
+
+- Mercenary capital
+
+- Builders
+
+
+
+**AI augmentation**
+
+- Wallet behavior summarization
+
+- Governance sentiment analysis
+
+- Proposal outcome prediction
+
+- Personalized GTM messaging
+
+
+
+---
+
+
+
+## 4. Data Activation (Execution)
+
+
+
+### Outbound (Protocol-Led)
+
+- DAO outreach
+
+- Builder grants
+
+- Strategic integrations
+
+- Market maker onboarding
+
+- Ecosystem BD
+
+
+
+### Inbound
+
+- Content-led growth
+
+- Developer documentation
+
+- Transparency dashboards
+
+- Airdrops with behavioral filters
+
+
+
+### RevOps (Web3 Version)
+
+- Grant pipeline tracking
+
+- Partner lifecycle management
+
+- Integration status tracking
+
+- Incentive ROI measurement
+
+- DAO proposal tracking
+
+
+
+### Growth Loops
+
+- Incentives → volume → fees → buy pressure
+
+- Developers → apps → users → protocol revenue
+
+- Governance → alignment → retention
+
+
+
+---
+
+
+
+## 5. Core Workflows
+
+
+
+### Web3 Outbound GTM Workflow
 
 1\. Identify target wallets, DAOs, or dev teams
 
@@ -388,7 +373,7 @@ This is how modern Web3 growth actually works.
 
 
 
-\### Web3 Inbound GTM Workflow
+### Web3 Inbound GTM Workflow
 
 1\. Content or incentive trigger
 
@@ -406,97 +391,45 @@ This is how modern Web3 growth actually works.
 
 
 
-\## 6. KPIs (Web3 Native)
+## 6. KPIs (Web3 Native)
 
 
 
-\### Production
+### Production
 
-\- Dashboards shipped
+- Dashboards shipped
 
-\- Indexers maintained
+- Indexers maintained
 
-\- Segments defined
+- Segments defined
 
-\- Data pipelines stable
-
-
-
-\### Distribution
-
-\- Wallets reached
-
-\- DAOs contacted
-
-\- Developers onboarded
-
-\- Integrations launched
+- Data pipelines stable
 
 
 
-\### Conversion
+### Distribution
 
-\- Active wallets
+- Wallets reached
 
-\- Retention rate
+- DAOs contacted
 
-\- TVL growth
+- Developers onboarded
 
-\- Fee generation
-
-\- Governance participation
+- Integrations launched
 
 
 
----
+### Conversion
 
+- Active wallets
 
+- Retention rate
 
-\## 7. Responsibilities of a Web3 GTM Engineer
+- TVL growth
 
+- Fee generation
 
-
-\*\*Strategy\*\*
-
-\- Define GTM motion based on onchain reality
-
-\- Align incentives with sustainable growth
-
-\- Prevent mercenary behavior
-
-
-
-\*\*Data aggregation\*\*
-
-\- Build and maintain onchain datasets
-
-\- Ensure data accuracy and reproducibility
-
-
-
-\*\*Data enrichment\*\*
-
-\- Translate raw blockchain data into insight
-
-\- Build scoring and segmentation systems
-
-
-
-\*\*Data activation\*\*
-
-\- Power BD, growth, and ecosystem teams
-
-\- Enable targeted incentives and integrations
-
-
-
-\*\*Communication\*\*
-
-\- Turn dashboards into decisions
-
-\- Support founders, DAOs, and partners
-
-\- Write clear narratives from data
+- Governance participation
 
 
 
@@ -504,51 +437,51 @@ This is how modern Web3 growth actually works.
 
 
 
-\## 8. Books to Read (Web3 GTM Edition)
+## 7. Responsibilities of a Web3 GTM Engineer
 
 
 
-\### GTM and Growth
+**Strategy**
 
-\- \*Cold Email Manifesto\* – Alex Berman  
+- Define GTM motion based on onchain reality
 
-\- \*Influence\* – Robert Cialdini  
+- Align incentives with sustainable growth
 
-\- \*Exactly What To Say\* – Phil M. Jones  
-
-\- \*Everybody Writes\* – Ann Handley  
+- Prevent mercenary behavior
 
 
 
-\### Strategy
+**Data aggregation**
 
-\- \*Good Strategy Bad Strategy\* – Richard Rumelt  
+- Build and maintain onchain datasets
 
-\- \*Playing To Win\* – Lafley \& Martin  
-
-\- \*The Lean Startup\* – Eric Ries  
+- Ensure data accuracy and reproducibility
 
 
 
-\### Web3 Core
+**Data enrichment**
 
-\- \*Token Economy\* – Shermin Voshmgir  
+- Translate raw blockchain data into insight
 
-\- \*The Infinite Machine\* – Camila Russo  
-
-\- \*The Cryptopians\* – Laura Shin  
-
-\- \*Mastering Ethereum\* – Andreas Antonopoulos  
+- Build scoring and segmentation systems
 
 
 
-\### Systems and Incentives
+**Data activation**
 
-\- \*Thinking in Systems\* – Donella Meadows  
+- Power BD, growth, and ecosystem teams
 
-\- \*Skin in the Game\* – Nassim Taleb  
+- Enable targeted incentives and integrations
 
-\- \*Superforecasting\* – Philip Tetlock  
+
+
+**Communication**
+
+- Turn dashboards into decisions
+
+- Support founders, DAOs, and partners
+
+- Write clear narratives from data
 
 
 
@@ -556,11 +489,63 @@ This is how modern Web3 growth actually works.
 
 
 
-\## How To Use This Repo
+## 8. Books to Read (Web3 GTM Edition)
 
 
 
-\- As a \*\*foundation for GTM operating system\*\*
+### GTM and Growth
+
+- *Cold Email Manifesto* – Alex Berman  
+
+- *Influence* – Robert Cialdini  
+
+- *Exactly What To Say* – Phil M. Jones  
+
+- *Everybody Writes* – Ann Handley  
+
+
+
+### Strategy
+
+- *Good Strategy Bad Strategy* – Richard Rumelt  
+
+- *Playing To Win* – Lafley \& Martin  
+
+- *The Lean Startup* – Eric Ries  
+
+
+
+### Web3 Core
+
+- *Token Economy* – Shermin Voshmgir  
+
+- *The Infinite Machine* – Camila Russo  
+
+- *The Cryptopians* – Laura Shin  
+
+- *Mastering Ethereum* – Andreas Antonopoulos  
+
+
+
+### Systems and Incentives
+
+- *Thinking in Systems* – Donella Meadows  
+
+- *Skin in the Game* – Nassim Taleb  
+
+- *Superforecasting* – Philip Tetlock  
+
+
+
+---
+
+
+
+## How To Use This Repo
+
+
+
+- As a **foundation for GTM operating system**
 
 
 
